@@ -517,4 +517,8 @@ def cancel_booking():
 
 if __name__ == '__main__':
     # IMPORTANT: In a production environment, disable debug mode and specify a production-ready host.
+<<<<<<< HEAD
     app.run(debug=True, host='0.0.0.0')
+=======
+    app.run(debug=True, host='0.0.0.0')
+>>>>>>> b5175187252f462633c37bd61f509250af3ab0bd
